@@ -32,3 +32,11 @@ Examples:
 Auto-restart crashed services.
 
 Predict traffic spikes and allocate bandwidth.
+
+screenshots from colab
+
+
+<img width="512" height="385" alt="image" src="https://github.com/user-attachments/assets/d2caf8eb-3755-4074-980e-b2c678721ef2" />
+<img width="453" height="397" alt="image" src="https://github.com/user-attachments/assets/8d8b0e35-1d46-4429-90c6-02bc20e87b33" />
+
+
